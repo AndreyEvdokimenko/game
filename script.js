@@ -218,7 +218,7 @@
 		},
 		{
 			name: "sublime",
-			img: "http://berugitaru.ru/upload/artist/None/image/ddt.jpg",
+			img: "ddt.jpg",
 			id: 11
 		},
 		{
